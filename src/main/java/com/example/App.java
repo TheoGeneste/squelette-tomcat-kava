@@ -6,10 +6,6 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 
 import com.example.config.AppConfig;
 
-/**
- * Hello world!
- *
- */
 public class App extends AbstractAnnotationConfigDispatcherServletInitializer 
 {
     public static void main(String[] args) {
